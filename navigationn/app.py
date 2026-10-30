@@ -1,8 +1,4 @@
 import streamlit as st
-import home
-import profil
-import sosial_media
-import kemampuan
 
 st.set_page_config(
     page_title="Portofolio GITA",
